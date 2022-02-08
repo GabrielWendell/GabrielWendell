@@ -30,8 +30,8 @@
 
 ## <p align = "center"> :octocat: Github Statistics :octocat: </p>
 <a href="https://github.com/GabrielWendell">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWendell&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielWendell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWendell&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabrielWendell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
 
 ## <p align = "center"> 💬 You can also find me here 💬 </p>
