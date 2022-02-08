@@ -27,11 +27,13 @@
 </code>
 
 ## <p align = "center"> 💬 You can also find me here💬 </p>
-<p align = "center"> <div>
+<p align = "center"> 
 <a href="https://www.youtube.com/channel/UCVTJRiwbg9xgK1ANAkoOMKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@gabrielwendell@fisica.ufrn.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-wendell-6507981b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> </p>
+<a href="https://www.linkedin.com/in/gabriel-wendell-6507981b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </p>
+
+
+---------
 
 <div>
 <a href="https://github.com/GabrielWendell">
