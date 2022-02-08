@@ -26,7 +26,15 @@
         me = Lis()
 </code>
 
-## <p align = "center"> 💬 You can also find me here💬 </p>
+
+## <p align = "center"> :octocat: Github Statistics :octocat: </p>
+<div>
+<a href="https://github.com/GabrielWendell">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWendell&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielWendell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## <p align = "center"> 💬 You can also find me here 💬 </p>
 <p align = "center"> 
 <a href="https://www.youtube.com/channel/UCVTJRiwbg9xgK1ANAkoOMKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@gabrielwendell@fisica.ufrn.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -34,12 +42,6 @@
 
 
 ---------
-
-<div>
-<a href="https://github.com/GabrielWendell">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWendell&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielWendell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
     
 ![Snake animation](https://github.com/GabrielWendell/GabrielWendell/blob/output/github-contribution-grid-snake.svg)
 
