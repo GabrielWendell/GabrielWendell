@@ -2,12 +2,11 @@
 
 <p align = "center"> I'm Gabriel Wendell, a graduate student in Physics in his final year. Everything related to Astronomy, Physics, Mathematics and Programming excites me. I am an eternal lover of the stars and the cosmos. </p>
 
-<p align = "center"> I am interested in Astrophysics with a focus on <i> Asteroseismology of red giant and solar-type stars </i>. When I'm AFK you can find me programming games 👾, drawing 🎨, playing guitar 🎸, solving olympic problems 📚 or playing videogames 🎮. </p>
+<p align = "center"> I am interested in Astrophysics with a focus on <i> Asteroseismology of red giant and solar-type stars & Computational modelling of Limb-Darkening in stars </i>. When I'm AFK you can find me programming games 👾, drawing 🎨, playing guitar 🎸, solving olympic problems 📚 or playing videogames 🎮. </p>
 
 ## <p align = "center"> 🖥️ Tech Stack 🖥️ </p>
 
-<code>
-    
+```Python
     class Wendell:
 
       def __init__(self):
@@ -16,16 +15,16 @@
               'languages': ['Python', 'Julia',  'Ruby', 'C#', 'C++', 'Rust', 'R', 'ChucK'],
               'pytools': ['NumPy',  'Pandas', 'Matplotlib', 'AstroPy', 'SciPy', 'Seaborn', 'Scikit-learn'],
               'tools': ['Git', 'GNU/Linux'],
-              'IDEs': ['VSCode', 'RStudio', 'SuperCollider', 'Sonic Pi', 'TeXStudio'],
-              'game_engines': ['Unity', 'RPG Maker', 'Smile Game Builder']
+              'IDEs': ['VSCode', 'RStudio', 'SuperCollider', 'Sonic Pi'],
+              'game_engines': ['Unity', 'Blender', 'RPG Maker' 'Smile Game Builder']
           }
 
       def __str__(self):
           return self.name
 
     if __name__ == '__main__':
-        me = Lis()
-</code>
+        me = Wendell()
+```
 
 
 ## <p align = "center"> :octocat: Github Statistics :octocat: </p>
