@@ -120,9 +120,9 @@ wendell.favorite_flowers()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel wendell celestino rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel wendell celestino rocha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-wendell-celestino-rocha-6507981b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel wendell celestino rocha" height="30" width="40" /></a>
 <a href="https://medium.com/@gabrielwendell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabrielwendell" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvtjriwbg9xgk1anakoomkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvtjriwbg9xgk1anakoomkq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gabrielwendell2813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvtjriwbg9xgk1anakoomkq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
