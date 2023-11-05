@@ -1,5 +1,5 @@
 <h1 align="center"> 🌸 Hello everyone 👋 </h1>
-<h3 align="center"> I'm Gabriel Wendell, a brazilian master's student who loves everything related to Astronomy, Physics, Mathematics and Cosmic Horror. </h3>
+<h3 align="center"> I'm Gabriel Wendell, a brazilian master's student who loves everything related to Astronomy, Physics, Mathematics and Cosmic Horror 🌌. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielwendell&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielwendell" /> </p>
 
