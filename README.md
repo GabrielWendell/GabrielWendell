@@ -29,13 +29,15 @@
 
 ```Python
 class Wendell:
-    def __init__(self, name, age, university, research_area, favorite_numbers, favorite_flowers):
+    def __init__(self, name, age, university, research_area, favorite_numbers, favorite_flowers, favorite_series, favorite_games):
         self.name = name
         self.age = age
         self.university = university
         self.research_area = research_area
         self.favorite_numbers = favorite_numbers
         self.favorite_flowers = favorite_flowers
+        self.favorite_series = favorite_series
+        self.favorite_games = favorite_games
 
     def introduce(self):
         print(f"Hello, I'm {self.name}, a {self.age}-year-old Master's student in Physics")
@@ -66,6 +68,12 @@ class Wendell:
         print("I also have a deep appreciation for the following favorite flowers:")
         for flower in self.favorite_flowers:
             print(f"- {flower}")
+        print("My favorite series include:")
+        for series in self.favorite_series:
+            print(f"- {series}")
+        print("And I'm a fan of these games:")
+        for game in self.favorite_games:
+            print(f"- {game}")
 
     def favorite_numbers(self):
         print("I have a strong fascination with prime, transcendent, and irrational numbers. Some of my favorites include:")
@@ -80,7 +88,7 @@ wendell = Wendell(
     favorite_numbers=["π", "ζ(3)", "γ"],
     favorite_flowers=["Fuchsia magellanica", "Hibiscus rosa-sinensis", "Camellia japonica", "Lilium longiflorum", "Prunus serrulata"],
     favorite_series=["Helluva Boss", "Hazbin Hotel", "Lackadaisy"],
-    favorite_games=["Gris","Journey","Child of Light"]
+    favorite_games=["Gris", "Journey", "Child of Light"]
 )
 
 wendell.introduce()
@@ -89,7 +97,7 @@ wendell.research_experience([
     "Asteroseismology of solar-type stars and red giants",
     "Machine learning applied to asteroseismology",
     "Classification of galaxies through images",
-    "Bayesian inference applied to limb darkening phenomenon"
+    "Bayesian inference applied to stellar limb darkening"
 ])
 print()
 wendell.current_projects([
@@ -114,12 +122,6 @@ print()
 wendell.hobbies()
 print()
 wendell.favorite_numbers()
-print()
-wendell.favorite_flowers()
-print()
-wendell.favorite_series()
-print()
-wendell.favorite_games()
 ```
 
 -----
