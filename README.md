@@ -78,7 +78,9 @@ wendell = Wendell(
     university="Federal University of Rio Grande do Norte",
     research_area="mathematical and computational analysis/modeling of magnetohydrodynamic turbulence and path integrals in Physics",
     favorite_numbers=["π", "ζ(3)", "γ"],
-    favorite_flowers=["Fuchsia magellanica", "Hibiscus rosa-sinensis", "Camellia japonica", "Lilium longiflorum", "Prunus serrulata"]
+    favorite_flowers=["Fuchsia magellanica", "Hibiscus rosa-sinensis", "Camellia japonica", "Lilium longiflorum", "Prunus serrulata"],
+    favorite_series=["Helluva Boss", "Hazbin Hotel", "Lackadaisy"],
+    favorite_games=["Gris","Journey","Child of Light"]
 )
 
 wendell.introduce()
@@ -114,6 +116,10 @@ print()
 wendell.favorite_numbers()
 print()
 wendell.favorite_flowers()
+print()
+wendell.favorite_series()
+print()
+wendell.favorite_games()
 ```
 
 -----
