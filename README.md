@@ -1,4 +1,4 @@
-![Header](https://github.com/GabrielWendell/GabrielWendell/blob/main/Figs/github-header-image.png)
+![Header](https://github.com/GabrielWendell/GabrielWendell/blob/main/Figs/github-header-image_6.png)
 
 # 🌌 Welcome to My GitHub! 🚀
 
@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-🔭 I am a **researcher and developer** passionate about **Asteroseismology, Machine Learning, Fluid Dynamics, and Symplectic Geometry**. I love creating **scientific simulations**, exploring **theoretical physics**, and working on **data-driven astrophysical projects**.
+🔭 I am a **physics doctor student and developer** passionate about **Asteroseismology, Deep Learning, Fluid Dynamics, Magnetohydrodynamics, Symplectic Geometry and Quantum Mechanics**. I love creating **scientific simulations**, exploring **theoretical physics**, and working on **data-driven astrophysical projects**.
 
 💡 My main research interests include:
 - 🌠 **Asteroseismology** – Stellar oscillations, wave propagation, and their mathematical foundations.
@@ -15,7 +15,7 @@
 - 🧠 **Machine Learning & Deep Learning** – Galaxy classification, time series forecasting, and topological data analysis.
 - 📊 **Numerical Simulations** – High-performance computing for geophysical and astrophysical modeling.
 
-🛠️ I also develop **custom tools and libraries** for computational physics, without relying on standard libraries like `obspy`.
+🛠️ I also develop **custom tools and libraries** for computational physics, without relying on standard libraries.
 
 ---
 
@@ -27,28 +27,29 @@
 
 📌 **Galaxy Morphology Classifier** – Using Machine Learning to classify galaxy morphologies.
 
-🔗 **More Projects:** [Click Here](https://github.com/YourUsername?tab=repositories)
+🔗 **More Projects:** [Click Here](https://github.com/GabrielWendell?tab=repositories)
 
 ---
 
 ## 📖 Recent Articles & Publications
+ 
+ 📜 **The limb darkening via transit modeling and bayesian inference** (*[Revista Brasileira de Ensino de Física](https://www.scielo.br/j/rbef/a/ddM7DJnfSst5L3s9KpFvcPd/?lang=pt)*)
+ 
+ 📜 **Generalization to $d$-dimensions of a fermionic path integral for exact enumeration of polygons on hypercubic lattices** (*[Scientific Reports](https://www.nature.com/articles/s41598-024-71809-1)*)
 
-📜 **Analyzing Stellar Oscillations with Asteroseismology**:
-1️⃣ **I. Theoretical Foundations**
-2️⃣ **II. Numerical Methods**
-3️⃣ **III. Observational Techniques**
-
-📝 *Published in Revista Brasileira de Ensino de Física (RBEF)* *(Coming Soon!)*
+📜 **Computational Modeling of a Star: A Theoretical and Numerical Approach**
+- 📝 *Submitted in Revista Brasileira de Ensino de Física* *(Coming Soon!)*
 
 ---
 
 ## 📡 Connect with Me
 
-💻 [GitHub](https://github.com/YourUsername)  
-📜 [ResearchGate](https://www.researchgate.net/profile/YourProfile)  
-📨 [Email](mailto:your-email@example.com)
+💻 [GitHub](https://github.com/GabrielWendell)  
+📜 [ResearchGate](https://www.researchgate.net/profile/Gabriel-Celestino-Rocha)  
+📨 [Email](mailto:gabrielwendell@fisica.ufrn.br)
 
-📣 *"Science is the poetry of reality." – Richard Dawkins*
+📣 *"Science is the poetry of reality." 
+– Richard Dawkins*
 
 ---
 
@@ -64,7 +65,7 @@
 
 ## 🌟 Fun Facts
 
-- 📖 Favorite scientific topic: **Asteroseismology & Fluid Dynamics**
+- 📖 Favorite scientific topic: **Asteroseismology, Deep Learning & (M)HD**
 - 🎵 Loves *Helluva Boss* and *The Owl House*
 - 💭 Favorite Quote: *"Everything is connected."*
 
