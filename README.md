@@ -21,9 +21,7 @@
 
 ## 🚀 Featured Projects
 
-📌 **SeisGen** – A Python package for generating synthetic seismograms without `obspy`.
-
-📌 **Asteroseismology Papers** – A series of articles on stellar oscillations submitted to *Revista Brasileira de Ensino de Física*.
+📌 **PyMoS2** – Python Modules for a Static Star Model: A Python code to simulate a simple stellar model.
 
 📌 **Galaxy Morphology Classifier** – Using Machine Learning to classify galaxy morphologies.
 
