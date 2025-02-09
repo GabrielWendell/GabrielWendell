@@ -1,4 +1,4 @@
-![Header](https://github.com/GabrielWendell/GabrielWendell/blob/main/Figs/github-header-image_6.png)
+![Header](https://github.com/GabrielWendell/GabrielWendell/blob/main/Figs/github-header-image_7.png)
 
 # 🌌 Welcome to My GitHub! 🚀
 
