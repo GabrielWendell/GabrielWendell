@@ -52,6 +52,7 @@ Explore the rest of my work in **[all repositories](https://github.com/GabrielWe
 
 ### 📖 Selected publications
 
+- **[A machine learning and neural network approach to flood forecasting in the Wupper river](https://doi.org/10.1590/0001-3765202620250485)** · *Anais da Academia Brasileira de Ciências* (2026).
 - **[Computational Modeling of a Star: A Theoretical and Numerical Approach](https://doi.org/10.1590/1806-9126-RBEF-2024-0470)** · *Revista Brasileira de Ensino de Física* (2025).
 - **[Generalization to d-dimensions of a fermionic path integral for exact enumeration of polygons on hypercubic lattices](https://doi.org/10.1038/s41598-024-71809-1)** · *Scientific Reports* (2024).
 - **[The limb darkening via transit modeling and Bayesian inference](https://doi.org/10.1590/1806-9126-RBEF-2022-0170)** · *Revista Brasileira de Ensino de Física* (2022).
