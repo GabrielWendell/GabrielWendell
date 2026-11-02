@@ -1,142 +1,81 @@
-<!--
-  Optional banner image:
-  Replace "banner.png" with your own banner (1200x300 works well), then uncomment.
+<!-- GitHub profile README — github.com/GabrielWendell -->
 
-<p align="center">
-  <img src="banner.png" alt="Gabriel Wendell – Physics & Topological Data Analysis">
-</p>
--->
+<div align="center">
+  <img src="Figs/github-header-image_2.png" alt="Gabriel Wendell — researcher and developer" width="100%" />
 
-<h1 align="center">Hi, I'm Gabriel Wendell 👋</h1>
+  <h3>Physicist · Topological Data Analysis · Scientific Machine Learning</h3>
+  <p><em>Exploring the structure of physical systems, from microscopic scales to the cosmos.</em></p>
 
-<p align="center">
-  Physicist & PhD student @ UFRN · Topological Data Analysis & Machine Learning in Physics · Scientific Computing & Simulations
-</p>
-
-$$
-\partial_{u}\left[\Lambda^{u}-\frac{\partial\mathcal{L}}{\partial\left(\partial_{u}\Phi\right)}\delta\Phi=0\right]
-$$
-
-<p align="center">
-  <a href="https://orcid.org/0000-0002-3298-402X">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--3298--402X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-  </a>
-  <a href="http://lattes.cnpq.br/0049111339899544">
-    <img src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge" alt="Lattes">
-  </a>
-  <a href="https://www.researchgate.net/profile/Gabriel-Celestino-Rocha">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
-  </a>
-  <a href="https://gabrielwendell.github.io">
-    <img src="https://img.shields.io/badge/Website-Portfolio-5ac8fa?style=for-the-badge" alt="Website">
-  </a>
-</p>
+  <a href="https://gabrielwendell.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-276DC3?style=flat-square&logo=githubpages&logoColor=white" alt="Personal website" /></a>
+  <a href="https://orcid.org/0000-0002-3298-402X"><img src="https://img.shields.io/badge/ORCID-0000--0002--3298--402X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="http://lattes.cnpq.br/0049111339899544"><img src="https://img.shields.io/badge/Lattes-CNPq-325A9D?style=flat-square" alt="Lattes CV" /></a>
+  <a href="https://www.researchgate.net/profile/Gabriel-Celestino-Rocha"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate profile" /></a>
+</div>
 
 ---
 
-## 🧪 What I work on
-[![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square)](https://github.com/GabrielWendell)
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/GabrielWendell)
+### 👋 About me
 
-I am a Physics PhD student working on **Topological Data Analysis (TDA)** and **Machine Learning** applied to complex physical systems.  
-Most of my research lives at the intersection of:
+I'm a **Physics PhD researcher** interested in how mathematics and computation help us uncover structure in complex systems. My work brings together **topological data analysis (TDA)**, **machine learning**, numerical simulation, and physical interpretation.
 
-- **Astronomical scale**  
-  - Gravitational-wave detection at low SNR  
-  - Asteroseismology and stellar structure  
-  - Galaxy morphology and large-scale structure
+A question that motivates much of what I do:
 
-- **Mesoscopic scale**  
-  - Magnetohydrodynamics (MHD) & fluid dynamics  
-  - Nonlinear instabilities (Kelvin–Helmholtz, Rayleigh–Taylor)  
-  - Low-dimensional chaotic systems (Lorenz, Rössler, Chua, etc.)
+> **What can the shape of data reveal about the physics that generated it?**
 
-- **Microscopic scale**  
-  - Magnetic materials & Barkhausen noise  
-  - Condensed matter systems and phase transitions  
-  - Quantum information and entanglement structure
+I care about more than predictive accuracy: I enjoy developing methods that are **interpretable, physically meaningful, and reproducible**.
 
-Across these domains, I like to ask:  
-> **What can topology “see” in data that classical statistics cannot?**
+### 🔭 Research across scales
 
----
+| ⚛️ Microscopic | 🌊 Mesoscopic | 🌌 Astronomical |
+| :--- | :--- | :--- |
+| Spectral structure, condensed matter, and materials | Nonlinear dynamics, fluid and magnetohydrodynamic systems | Stellar oscillations, gravitational waves, and galaxy morphology |
+| **Topology of spectra & physical observables** | **Patterns, instabilities & dynamics** | **Structure & inference from astronomical data** |
 
-## 📂 Selected open-source projects
+**Methods connecting these scales:** persistent homology · scientific machine learning · time-series analysis · numerical modeling · statistical inference.
 
-These are some repositories that capture what I enjoy building: rigorous, research-grade, and reproducible workflows.
+### 🧩 Featured projects
 
-| Project | What it is | Area / Keywords |
-|--------|------------|-----------------|
-| [**TDA+CNN : Brio-Wu Shock Tube**](https://github.com/GabrielWendell/TDA-Brio-Wu_MHD_CNN-XXXIX_EFNNE) | Pipeline using TDA to investigate detection and quantification of failure modes of neural temporal predictors using CNN of Brio-Wu shock tube simulations, developed for the XXXIX EFNNE. | Brio-Wu shock tube, MHD, TDA, CNN  |
-| [**TDA : GW Detection at Low SNR**](https://github.com/GabrielWendell/TDA-GW_Low_SNR-4th_DSML) | Full pipeline using TDA to detect gravitational-wave-like signals under very low SNR, developed for the 4th School on Data Science & Machine Learning (DSML 2025). | Gravitational waves, TDA, dynamical systems, ML |
-| [**TDA+SSL : Galaxy Morphology**](https://github.com/GabrielWendell/TDA-SSL_Galaxy_Morphology-XLVIII_RASAB) | Unsupervised topological + contrastive representation learning for Galaxy Zoo 2 morphological analysis, presented at XLVIII RASAB. | Galaxy morphology, SSL, persistent homology, clustering |
-| [**PyMoS²**](https://github.com/GabrielWendell/PyMoS2) | Python Modules for a Static Star Model: a code for simulating the structure of a 1 $M_{\odot}$ static, non-magnetic star with didactic and research-oriented documentation. | Stellar structure, ODEs, numerical methods, stellar convection |
-| [**PET.py**](https://github.com/GabrielWendell/PET.py) | Collection of didactic notebooks solving classic physics problems (astronomy, fluids, quantum, dynamical systems) for PET–Física/UFRN. | Computational physics, education, Jupyter |
-| [**Intro\_ML**](https://github.com/GabrielWendell/Intro_ML) | Materials for my minicourse *“Uma breve introdução ao Machine Learning”* (PET–Física), including notebooks, problem lists, and teaching notes. | Machine learning, pedagogy, tensors, dimensionality reduction |
-| [**AI-Gen-RAG Bibliographic Review Assistant**](https://github.com/GabrielWendell/AI-Gen-RAG-Bibliographic-Review-Assistant) | An AI-powered assistant for semi-automated literature review (arXiv + RAG + BART/OpenAI), with a Streamlit-based dashboard. | GenAI, RAG, NLP, research workflows |
+A selection of my open-source work, spanning research pipelines and computational physics:
 
-You can find more projects in my [repositories](https://github.com/GabrielWendell?tab=repositories). Many of them are part of a broader effort to build reusable tools for **scientific computing in physics**.
+| Topology & data-driven physics | Numerical modeling & simulations |
+| :--- | :--- |
+| **[Gravitational waves at low SNR](https://github.com/GabrielWendell/TDA-GW_Low_SNR-4th_DSML)**<br/>Exploring persistent-homology features for signal detection in noisy time series. | **[PyMoS² — Static stellar models](https://github.com/GabrielWendell/PyMoS2)**<br/>Numerical modeling of stellar structure, with an emphasis on transparent, educational code. |
+| **[Galaxy morphology with TDA + SSL](https://github.com/GabrielWendell/TDA-SSL_Galaxy_Morphology-XLVIII_RASAB)**<br/>Topological and contrastive representations for analyzing galaxy morphologies. | **[Brio–Wu shock tube: TDA + CNN](https://github.com/GabrielWendell/TDA-Brio-Wu_MHD_CNN-XXXIX_EFNNE)**<br/>Using topological descriptors to study neural-prediction behavior in MHD simulations. |
 
----
+**Other tools & teaching repositories**
 
-## 📚 Selected publications
+- **[PET.py](https://github.com/GabrielWendell/PET.py)** — Jupyter notebooks on computational physics, astronomy, and applied mathematics.
+- **[Intro_ML](https://github.com/GabrielWendell/Intro_ML)** — Hands-on material for an introductory machine-learning minicourse.
+- **[AI-Gen-RAG Bibliographic Review Assistant](https://github.com/GabrielWendell/AI-Gen-RAG-Bibliographic-Review-Assistant)** — Exploring retrieval-augmented workflows for literature review.
 
-Some of my scientific work (see my ORCID/ResearchGate for a complete list):
+Explore the rest of my work in **[all repositories](https://github.com/GabrielWendell?tab=repositories)**.
 
-- **Computational Modeling of a Star: A Theoretical and Numerical Approach** – *Revista Brasileira de Ensino de Física*  
-- **Generalization to d-dimensions of a fermionic path integral for exact enumeration of polygons on hypercubic lattices** – *Scientific Reports (Nature)*
-- **The limb darkening via transit modeling and Bayesian inference** – *Revista Brasileira de Ensino de Física*  
+### 📖 Selected publications
 
-I am particularly interested in papers and projects that connect **mathematical structures** (topology, geometry, stochastic processes) with **observable physical phenomena**.
+- **[Computational Modeling of a Star: A Theoretical and Numerical Approach](https://doi.org/10.1590/1806-9126-RBEF-2024-0470)** · *Revista Brasileira de Ensino de Física* (2025).
+- **[Generalization to d-dimensions of a fermionic path integral for exact enumeration of polygons on hypercubic lattices](https://doi.org/10.1038/s41598-024-71809-1)** · *Scientific Reports* (2024).
+- **[The limb darkening via transit modeling and Bayesian inference](https://doi.org/10.1590/1806-9126-RBEF-2022-0170)** · *Revista Brasileira de Ensino de Física* (2022).
 
----
+For a fuller publication record, visit my **[ORCID](https://orcid.org/0000-0002-3298-402X)** or **[Lattes CV](http://lattes.cnpq.br/0049111339899544)**.
 
-## 🎓 Teaching & outreach
+### 🛠️ Research toolbox
 
-I enjoy teaching as much as research, and often design materials that are both **mathematically rigorous** and **code-driven**:
+| Scientific computing | Machine learning & data | Research workflow |
+| :--- | :--- | :--- |
+| `Python` · `NumPy` · `SciPy` · `pandas` | `scikit-learn` · `TensorFlow/Keras` | `Git` · `Jupyter` · `LaTeX` |
+| Numerical methods · ODEs/PDEs · signal processing | TDA · time-series analysis · scientific visualization | `Matplotlib` · `Plotly` · `Streamlit` |
 
-- **PET.py notebooks (PET–Física / UFRN)**  
-  - Extensive collection of notebooks on astronomy, fluids, quantum mechanics, and dynamical systems.
-- **Minicourse – Uma breve introdução ao Machine Learning (PET–Física / UFRN)**  
-  - 5-day course covering supervised & unsupervised learning, tensor computation, and dimensionality reduction.
-- **Minicourse – Introdução ao Python para Engenharia Química (UFRN)**  
-  - Hands-on workshop on Python for scientific and engineering applications.
+My usual priorities: **clear scientific assumptions**, **well-documented experiments**, and **results that others can reproduce**.
 
-Whenever possible, I publish the materials here on GitHub so they can be reused, remixed, and improved.
+### 🎓 Teaching & outreach
+
+I enjoy making quantitative ideas approachable without giving up mathematical rigor. My teaching material includes computational-physics notebooks, an introductory machine-learning minicourse, and Python workshops for students in science and engineering.
+
+Whenever possible, I share the code and learning resources openly so that other people can adapt them.
 
 ---
 
-## 🧰 Toolbox
-
-I work mainly in the **Python scientific ecosystem**, with a focus on tools that scale to real research workloads:
-
-- **Languages**  
-  - Python, a bit of C/C++ when needed for performance, Markdown/LaTeX for documentation.
-
-- **Numerical & scientific computing**  
-  - NumPy, SciPy, pandas, SciPy stack for ODE/PDE solving, optimization, and signal processing.
-
-- **Machine learning & deep learning**  
-  - scikit-learn, TensorFlow/Keras, classical ML pipelines, and experiment workflows with explicit configs and reproducible seeds.
-
-- **Data & visualization**  
-  - Matplotlib, seaborn, Plotly/Dash/Streamlit for interactive dashboards, Jupyter/nbconvert for reproducible reports.
-
-- **Dev & tooling**  
-  - Git/GitHub, Vim/Neovim, VS Code, Linux environments, and simple automation for pipelines.
-
-I care a lot about **clean project structure**, **version control**, and **reproducibility** (configs, seeds, environment files, and clear documentation).
-
----
-
-## 🌱 Beyond the code
-
-- 🌌 I like to think about **physics “across scales”** – from quantum scales to astronomical scales.  
-- 🌺 A PhD student working with TDA & ML applied to physics and who loves flowers.   
-- 💬 I’m always happy to discuss physics, topology, ML, and research workflows – feel free to open an issue, start a discussion, or reach out.
-
----
-
-<p align="center">
-  <strong>Thanks for visiting! If you find something useful here, consider starring a repository or saying hi. 😊</strong>
-</p>
+<div align="center">
+  <p><em>Curiosity is a good starting point. Reproducibility makes it science.</em></p>
+  <sub>Thanks for visiting! Explore a project, open a discussion, or connect through the links above. 🌺</sub>
+</div>
